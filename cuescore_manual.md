@@ -4,8 +4,6 @@
 
 **NOTE:** The platform is continually under development, which means the Manual will not always be 100% up to date.
 
-. 
-
 This document has been in the planning for a long time and we are sorry for keeping you waiting.
 
 We’ll do our best to keep the document updated as new functionality is added or changes are done.
@@ -22,218 +20,126 @@ If you are managing tournaments from a mobile device, the navigation might be a 
 # Table of contents
 
 [1\. Homepage and Pro dashboard](#1.-homepage-and-pro-dashboard)
-
-[Homepage](#homepage)
-
-[Manager \- discontinued](#manager---discontinued)
-
-[Pro Dashboard](#pro-dashboard)
+  * [1.1 Homepage](#homepage)
+  * [1.2 Manager \- discontinued](#manager---discontinued)
+  * [1.3 Pro Dashboard](#pro-dashboard)
 
 [2\. A look at the Pro Dashboard](#2.-a-look-at-the-pro-dashboard)
-
-[Profile link](#profile-link)
-
-[Dashboard Menu](#dashboard-menu)
-
-[Profile (Pro Page visible for visitors to Cuescore)](#profile-\(pro-page-visible-for-visitors-to-cuescore\))
-
-[Tournaments](#tournaments)
-
-[Point systems](#point-systems)
-
-[Rankings](#rankings)
-
-[Handicaps](#handicaps)
-
-[Players(and creation of player profiles)](#players\(and-creation-of-player-profiles\))
-
-[Teams (New\!)](#teams-\(new!\))
-
-[Venues (New\!)](#venues-\(new!\))
-
-[Scoreboard](#scoreboard)
-
-[News](#news)
-
-[List of articles/new you have written and the status of it. (Published or not).](#new-articles--\>-just-click-the-“new-article”-button.)
-
-[New articles \-\> Just click the “New article” button.](#new-articles--\>-just-click-the-“new-article”-button.)
-
-[A good start could be to make a summary from tournaments you host with links to the player profiles of top 3\.](#a-good-start-could-be-to-make-a-summary-from-tournaments-you-host-with-links-to-the-player-profiles-of-top-3.)
-
-[Reports](#reports)
-
-[Payments (Cuescore Pay\&Play)](#payments-\(cuescore-pay&play\))
-
-[Profile](#profile)
-
-[Account](#account)
-
+  * [Profile link](#profile-link)
+  * [Dashboard Menu](#dashboard-menu)
+  * [Profile (Pro Page visible for visitors to Cuescore)](#profile-\(pro-page-visible-for-visitors-to-cuescore\))
+  * [Tournaments](#tournaments)
+  * [Point systems](#point-systems)
+  * [Rankings](#rankings)
+  * [Handicaps](#handicaps)
+  * [Players(and creation of player profiles)](#players\(and-creation-of-player-profiles\))
+  * [Teams (New\!)](#teams-\(new!\))
+  * [Venues (New\!)](#venues-\(new!\))
+  * [Scoreboard](#scoreboard)
+  * [News](#news)
+  * [List of articles/new you have written and the status of it. (Published or not).](#new-articles--\>-just-click-the-“new-article”-button.)
+  * [New articles \-\> Just click the “New article” button.](#new-articles--\>-just-click-the-“new-article”-button.)
+  * [A good start could be to make a summary from tournaments you host with links to the player profiles of top 3\.](#a-good-start-could-be-to-make-a-summary-from-tournaments-you-host-with-links-to-the-player-profiles-of-top-3.)
+  * [Reports](#reports)
+  * [Payments (Cuescore Pay\&Play)](#payments-\(cuescore-pay&play\))
+  * [Profile](#profile)
+  * [Account](#account)
+  
 [3\. Share access](#3.-share-access)
-
-[PRO account access](#pro-account-access)
-
+  * [PRO account access](#pro-account-access)
+  
 [4\. Venues](#4.-venues)
 
 [5\. Tournaments, leagues/competitions](#5.-tournaments,-leagues/competitions)
 
 [6\. Format / bracket / flowchart \- RR/SE/DE](#6.-format-/-bracket-/-flowchart---rr/se/de)
-
-[Formats](#formats)
-
-[Single Elimination (SE)](#single-elimination-\(se\))
-
-[Double Elimination (DE), incl. mixed DE-\>SE](#double-elimination-\(de\),-incl.-mixed-de-\>se)
-
-[Round-Robin (RR)](#round-robin-\(rr\))
-
-[League](#league)
-
-[Single Elimination Qualifier / Double Elimination Qualifier](#single-elimination-qualifier-/-double-elimination-qualifier)
-
-[Special brackets](#special-brackets)
-
+  * [Formats](#formats)
+  * [Single Elimination (SE)](#single-elimination-\(se\))
+  * [Double Elimination (DE), incl. mixed DE-\>SE](#double-elimination-\(de\),-incl.-mixed-de-\>se)
+  * [Round-Robin (RR)](#round-robin-\(rr\))
+  * [League](#league)
+  * [Single Elimination Qualifier / Double Elimination Qualifier](#single-elimination-qualifier-/-double-elimination-qualifier)
+  * [Special brackets](#special-brackets)
+  
 [7\. Tournament and it’s settings](#7.-tournament-and-it’s-settings)
-
-[Create tournament](#create-tournament)
-
-[Tournament settings](#tournament-settings)
-
-[Name and date](#name-and-date)
-
-[Basic setup](#basic-setup)
-
-[Pointsystem & ranking](#pointsystem-&-ranking)
-
-[Description & participant message](#description-&-participant-message)
-
-[Format, size, max participants](#format,-size,-max-participants)
-
-[Ranking order for standings table](#ranking-order-for-standings-table)
-
-[Template for individual matches](#template-for-individual-matches)
-
-[Organizers](#organizers)
-
-[Age, gender & dress code](#age,-gender-&-dress-code)
-
-[Video / live stream](#video-/-live-stream)
-
-[Pay\&Play Entry fee](#pay&play-entry-fee)
-
-[Delete / Publish / Save draft](#delete-/-publish-/-save-draft)
-
+  * [Create tournament](#create-tournament)
+  * [Tournament settings](#tournament-settings)
+  * [Name and date](#name-and-date)
+  * [Basic setup](#basic-setup)
+  * [Pointsystem & ranking](#pointsystem-&-ranking)
+  * [Description & participant message](#description-&-participant-message)
+  * [Format, size, max participants](#format,-size,-max-participants)
+  * [Ranking order for standings table](#ranking-order-for-standings-table)
+  * [Template for individual matches](#template-for-individual-matches)
+  * [Organizers](#organizers)
+  * [Age, gender & dress code](#age,-gender-&-dress-code)
+  * [Video / live stream](#video-/-live-stream)
+  * [Pay\&Play Entry fee](#pay&play-entry-fee)
+  * [Delete / Publish / Save draft](#delete-/-publish-/-save-draft)
+  
 [8\. The tournament page](#8.-the-tournament-page)
-
-[Sections of the tournament page](#sections-of-the-tournament-page)
-
-[Add player (for organizer)](#add-player-\(for-organizer\))
-
-[Schedule (before draw)](#schedule-\(before-draw\))
-
-[Create match schedule](#create-match-schedule)
-
-[Tools](#tools)
-
-[Seeding](#seeding)
-
-[Player swap](#player-swap)
-
-[Matchprotocol](#matchprotocol)
-
-[Reset draw](#reset-draw)
-
-[Schedule/bracket (when draw is done)](#schedule/bracket-\(when-draw-is-done\))
-
-[Links and filters](#links-and-filters)
-
-[Managing matches](#managing-matches)
-
-[Match number and sub-menu](#match-number-and-sub-menu)
-
-[Player A](#player-a)
-
-[Expand “v”](#expand-“v”)
-
-[Player B](#player-b)
-
-[Date / Time](#date-/-time)
-
-[Table](#table)
-
-[Start / Finish / Edit match](#start-/-finish-/-edit-match)
-
-[Two stage tournaments, e.g. DKO-\>SKO](#two-stage-tournaments,-e.g.-dko-\>sko)
-
-[Finish Tournament](#finish-tournament)
-
-[Result table](#result-table)
-
+  * [Sections of the tournament page](#sections-of-the-tournament-page)
+  * [Add player (for organizer)](#add-player-\(for-organizer\))
+  * [Schedule (before draw)](#schedule-\(before-draw\))
+  * [Create match schedule](#create-match-schedule)
+  * [Tools](#tools)
+  * [Seeding](#seeding)
+  * [Player swap](#player-swap)
+  * [Matchprotocol](#matchprotocol)
+  * [Reset draw](#reset-draw)
+  * [Schedule/bracket (when draw is done)](#schedule/bracket-\(when-draw-is-done\))
+  * [Links and filters](#links-and-filters)
+  * [Managing matches](#managing-matches)
+  * [Match number and sub-menu](#match-number-and-sub-menu)
+  * [Player A](#player-a)
+  * [Expand “v”](#expand-“v”)
+  * [Player B](#player-b)
+  * [Date / Time](#date-/-time)
+  * [Table](#table)
+  * [Start / Finish / Edit match](#start-/-finish-/-edit-match)
+  * [Two stage tournaments, e.g. DKO-\>SKO](#two-stage-tournaments,-e.g.-dko-\>sko)
+  * [Finish Tournament](#finish-tournament)
+  * [Result table](#result-table)
+  
 [9\. Rankings](#9.-rankings)
-
-[Settings](#settings)
-
-[Ranking tournaments](#ranking-tournaments)
-
+  * [Settings](#settings)
+  * [Ranking tournaments](#ranking-tournaments)
+  
 [10\. Handicap feature](#10.-handicap-feature)
-
-[Getting started](#getting-started)
-
-[Editing handicaps](#editing-handicaps)
-
+  * [Getting started](#getting-started)
+  * [Editing handicaps](#editing-handicaps)
+  
 [11\. Scoreboard](#11.-scoreboard)
-
-[11.1 Venue and tables](#11.1-venue-and-tables)
-
-[11.2 Create the tournament](#11.2-create-the-tournament)
-
-[11.3 Scoreboard table codes](#11.3-scoreboard-table-codes)
-
-[11.4 Setup finished.](#11.4-setup-finished.)
-
-[11.5 Test](#11.5-test)
-
-[11.6 Wifi](#11.6-wifi)
-
+  * [11.1 Venue and tables](#11.1-venue-and-tables)
+  * [11.2 Create the tournament](#11.2-create-the-tournament)
+  * [11.3 Scoreboard table codes](#11.3-scoreboard-table-codes)
+  * [11.4 Setup finished.](#11.4-setup-finished.)
+  * [11.5 Test](#11.5-test)
+  * [11.6 Wifi](#11.6-wifi)
+  
 [12\. Score overlay for streaming](#12.-score-overlay-for-streaming)
-
-[How to get going](#how-to-get-going)
-
-[12.1 Get the table link](#12.1-get-the-table-link)
-
-[12.2 Add a browser source in your streaming software](#12.2-add-a-browser-source-in-your-streaming-software)
-
-[12.3 How it works (and when)](#12.3-how-it-works-\(and-when\))
-
-[12.4 What information is shown](#12.4-what-information-is-shown)
-
-[12.5 Language support](#12.5-language-support)
-
-[12.6 What's next?](#12.6-what's-next?)
-
+  * [How to get going](#how-to-get-going)
+  * [12.1 Get the table link](#12.1-get-the-table-link)
+  * [12.2 Add a browser source in your streaming software](#12.2-add-a-browser-source-in-your-streaming-software)
+  * [12.3 How it works (and when)](#12.3-how-it-works-\(and-when\))
+  * [12.4 What information is shown](#12.4-what-information-is-shown)
+  * [12.5 Language support](#12.5-language-support)
+  * [12.6 What's next?](#12.6-what's-next?)
+  
 [APPENDIX 1 \- Team league setup](#appendix-1---team-league-setup)
-
-[1\. Teams home-venue](#1.-teams-home-venue)
-
-[2\. Players on the team](#2.-players-on-the-team)
-
-[3\. Now it’s time to create the teams](#3.-now-it’s-time-to-create-the-teams)
-
-[4\. Create league / Competition](#4.-create-league-/-competition)
-
-[5\. Add teams and make the draw](#5.-add-teams-and-make-the-draw)
-
-[6\. Player sequence individual matches](#6.-player-sequence-individual-matches)
-
-[7\. Conflicting matches](#7.-conflicting-matches)
-
+  * [1\. Teams home-venue](#1.-teams-home-venue)
+  * [2\. Players on the team](#2.-players-on-the-team)
+  * [3\. Now it’s time to create the teams](#3.-now-it’s-time-to-create-the-teams)
+  * [4\. Create league / Competition](#4.-create-league-/-competition)
+  * [5\. Add teams and make the draw](#5.-add-teams-and-make-the-draw)
+  * [6\. Player sequence individual matches](#6.-player-sequence-individual-matches)
+  * [7\. Conflicting matches](#7.-conflicting-matches)
+  
 [APPENDIX 2 \- FAQ](#appendix-2---faq)
 
 [APPENDIX 3 \- Tips & tricks](#appendix-3---tips-&-tricks)
-
-[Copy tournament](#copy-tournament)
-
-[Replicating a tournament (managed in another system)](#replicating-a-tournament-\(managed-in-another-system\))
+  * [Copy tournament](#copy-tournament)
+  * [Replicating a tournament (managed in another system)](#replicating-a-tournament-\(managed-in-another-system\))
 
 # 1\. Homepage and Pro dashboard {#1.-homepage-and-pro-dashboard}
 
